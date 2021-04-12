@@ -5,7 +5,12 @@ title: Three things I learned from The Ruby Koans
 
 Here are (at least) three things I learned from [The Ruby Koans](http://rubykoans.com/):
 
-hello world
+
+1.	Error monitoring service. Create an assert_raise() and enter a type of key for the user to see. 
+2.	Begin Rescue: If you don’t have a key in your hash that a user is trying to fetch, put in a begin and rescue to make the program work. 
+3.	Only use begin and rescue when you HAVE to deal with exceptions. It is not good practice to just let issues be swept under the rug. 
+
+
 
 
 
