@@ -26,3 +26,7 @@ Git add .   -   adds everything you just saved from all files
 Git add ruby/acronym/acronym_test.rb  -- commits only the specific rb file
 Git stash    -- takes you back to level before all of your commits
 Git stash pop    -- if you decide you don’t want to “git stash” this moves you forward to the changes you made
+
+
+A link to reference with handy routes information:
+https://guides.rubyonrails.org/routing.html#crud-verbs-and-actions
